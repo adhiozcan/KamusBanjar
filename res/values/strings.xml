@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kamus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Sliding List Item Icons -->
+    <array name="sliding_tab_icon">
+        <item>@drawable/search_dark</item>
+        <item>@drawable/kamus_dark</item>
+        <item>@drawable/setting_dark</item>
+    </array>
+
+</resources>
